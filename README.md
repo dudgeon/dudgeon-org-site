@@ -2,6 +2,12 @@
 
 Minimal static site hosted on GitHub Pages with custom domain.
 
+## Project Files
+
+- **README.md** (this file) - Setup guide and usage instructions
+- **TASKS.md** - Project task tracking and backlog
+- **claude.md** - Technical context for Claude Code (project conventions, architecture notes)
+
 ## Structure
 
 ```
